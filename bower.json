@@ -1,0 +1,33 @@
+{
+  "name": "contest wepabe",
+  "version": "0.0.1",
+  "authors": [
+    "Sebastian Ibarguen <s@cognits.co>"
+  ],
+  "description": "Contests for Cognits official webpage",
+  "main": "index.html",
+  "keywords": [
+    "template",
+    "boilerplate",
+    "frontend",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "www.cognits.co",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.1"
+  }
+}
